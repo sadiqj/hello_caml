@@ -1,0 +1,5 @@
+build
+**/*.cmi
+**/*.cmo
+lib/libcamlrun.a
+.vscode
